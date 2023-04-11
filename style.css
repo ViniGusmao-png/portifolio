@@ -8,9 +8,9 @@ html,body{
 body{
     padding: auto;
     margin: auto;
-    background-image: url('imagens/laranjinha.png');
+
     text-align: center;
-    background-color: rgb(253, 189, 70);
+    background-color: rgb(0, 67, 155);
 }
 section{
     box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.164);
@@ -19,7 +19,7 @@ section{
     width: 500px;
     margin: auto;
     border-radius: 15px;
-    background-color: rgba(255, 131, 29, 0.788);
+    background-color: rgba(29, 153, 255, 0.788);
 }
 
 img{
@@ -35,6 +35,9 @@ img{
 }
 .social>h1{
     text-align: center;
+}
+.social{
+    width: 50px;
 }
 
 
