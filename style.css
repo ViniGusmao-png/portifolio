@@ -1,49 +1,50 @@
-*{  
+* {
     font-family: Arial, Helvetica, sans-serif;
-}
-html,body{
+  }
+  
+  html, body {
     min-height: 100vh;
-}
-
-body{
+  }
+  
+  body {
     padding: auto;
     margin: auto;
-
     text-align: center;
     background-color: rgb(0, 67, 155);
-}
-section{
+  }
+  
+  section {
     box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.164);
     padding: 25px;
     height: auto;
-    width: 500px;
+    max-width: 500px; 
     margin: auto;
     border-radius: 15px;
     background-color: rgba(29, 153, 255, 0.788);
-}
-
-img{
+  }
+  
+  img {
     width: 200px;
-}
-.skill{
+  }
+  
+  .skill {
     margin-left: 10px;
     margin-right: 10px;
     width: 100px;
-}
-#habilidade{
+  }
+  
+  #habilidade {
     width: 350px;
-}
-.social>h1{
+  }
+  
+  .social > h1 {
     text-align: center;
-}
-.social{
+  }
+  
+  .social {
     width: 50px;
-}
-#js{
-    border-radius: 10px;
+  }
+  #js{
+    border-radius: 15px;
     width: 100px;
-}
-
-
-
-
+  }
