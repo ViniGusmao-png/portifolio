@@ -27,7 +27,12 @@
     background-color: rgba(29, 153, 255, 0.411);
   }
   
-  img {
+  img#eu{
+    width: 200px;
+    padding: 10px;
+    border-radius: 50%;
+  }
+  img.projeto {
     width: 200px;
   }
   
